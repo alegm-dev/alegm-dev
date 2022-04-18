@@ -7,7 +7,7 @@ celebrate();
 while succes() == false
 try_again();
 be_awesome();
-&emsp;```
+```
 
 <!--
 **alegm-dev/alegm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
