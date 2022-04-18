@@ -1,12 +1,14 @@
 # !Hola¡ Soy Ale👋
 Soy un desarrollador frontend de Argentina. Me estoy capacitcando para poder crear aplicaciones web rapidas / mobile con las mejores prácticas, que puedan solucionar necesidad de la vida cotidiano.
 
+
 ```
-if succes() == true:
-celebrate()
-while succes() == false:
-try_again()
+if (succes() == true){
+celebrate();
+}else if (succes() == false){
+try_again();
 be_awesome();
+};
 ```
 
 
