@@ -1,5 +1,6 @@
+🚀
 # #!Hola¡Soy AleGM👋
-Soy un desarrollador Front End de Argentina. Me estoy capacitando para poder crear aplicaciones web rápidas y mobile con las mejores prácticas, y que puedan solucionar necesidad de la vida cotidiana.
+Soy un desarrollador Front End de Argentina. Me estoy capacitando para poder crear aplicaciones web rápidas y mobile con las mejores prácticas, y que puedan solucionar necesidad de la vida cotidiana
 
 
 ```javascript
