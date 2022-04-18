@@ -1,4 +1,8 @@
-### Hi there 👋
+# !Hola¡ Soy Ale👋
+Soy un desarrollador frontend de Argentina. Me estoy capacitcando para poder crear aplicaciones web rapidas / mobile con las mejores prácticas, que puedan solucionar necesidad de las personas en el dia cotidiano.
+
+
+
 
 <!--
 **alegm-dev/alegm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
