@@ -2,13 +2,12 @@
 Soy un desarrollador frontend de Argentina. Me estoy capacitcando para poder crear aplicaciones web rapidas / mobile con las mejores prácticas, que puedan solucionar necesidad de la vida cotidiano.
 
 
-```
-if (succes() == true){
+```javascript
+if succes() == true:
 celebrate();
-}else if (succes() == false){
+while succes() == false
 try_again();
 be_awesome();
-};
 ```
 
 
