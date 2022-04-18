@@ -1,13 +1,13 @@
 # !Hola¡ Soy AleGM👋
 Soy un desarrollador frontend de Argentina. Me estoy capacitcando para poder crear aplicaciones web rapidas / mobile con las mejores prácticas, que puedan solucionar necesidad de la vida cotidiano.  
 
-  ```javascript
+```javascript
 if succes() == true:
 celebrate();
 while succes() == false
 try_again();
 be_awesome();
-  ```
+```
 
 <!--
 **alegm-dev/alegm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
