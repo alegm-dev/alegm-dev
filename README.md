@@ -3,7 +3,6 @@ Soy un desarrollador frontend de Argentina. Me estoy capacitcando para poder cre
 
 
                                                   ```javascript
-                                                  **
                                                   if succes() == true:
                                                   celebrate();
                                                   while succes() == false
