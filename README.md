@@ -1,7 +1,5 @@
 # #!Hola¡Soy AleGM👋
 
-Soy desarrollador autodidacta Front-End de Buenos Aires - Argentina. Me capacito para poder crear aplicaciones web rápidas y mobile con las mejores prácticas, y que puedan solucionar necesidad de la vida cotidiana.
-
 ```javascript
 if succes() == true:
 celebrate();
@@ -20,9 +18,6 @@ be_awesome();
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=alegm-dev&style=flat-square&color=blue" alt=""/>
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -31,9 +26,8 @@ be_awesome();
 ---
 
 ### :woman_technologist: Sobre Mi :
-
-Soy desarrollador Front-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: Me formo constantemente de manera autodidacta.
+Soy desarrollador autodidacta Front-End de Buenos Aires - Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: Me capacito para poder crear aplicaciones web rápidas y mobile con las mejores prácticas.
 
 - :seedling: Creo proyectos web y mobile.
 
